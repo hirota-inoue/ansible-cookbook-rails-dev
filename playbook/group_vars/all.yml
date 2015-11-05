@@ -1,0 +1,11 @@
+---
+ruby:
+  version: 2.2.3
+mysql:
+  dbuser: "devuser"
+  dbpass: "devuser"
+  dbname: "devapp"
+postgresql:
+  dbuser: "devuser"
+  dbpass: "devuser"
+  dbname: "devapp"
